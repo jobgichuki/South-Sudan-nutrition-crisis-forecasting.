@@ -15,7 +15,7 @@ The study highlights the potential of predictive analytics in humanitarian early
 
 ## How to Use
 1. Clone this repository  
-2. Install required packages (see `requirements.txt`)  
+2. Install required packages  
 3. Run scripts in `/scripts/` sequentially for data preparation and model evaluation  
 
 ## Citation
